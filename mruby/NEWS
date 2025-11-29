@@ -11,7 +11,8 @@ NEWS
 - `callee` method work differently with aliases in mruby ([f2dc76e](https://github.com/mruby/mruby/commit/f2dc76e))
 - define `Kernel#respond_to_missing?` method ([347586e](https://github.com/mruby/mruby/commit/347586e))
 - `_inspect` method (`inspect` with recursive check) is removed
-  ([e2bbf75](https://github.com/mruby/mruby/commit/e2bbf75), [5cb0c74](https://github.com/mruby/mruby/commit/5cb0c74), [113565a](https://github.com/mruby/mruby/commit/113565a),
+  ([e2bbf75](https://github.com/mruby/mruby/commit/e2bbf75), [5cb0c74]
+we can do this (https://github.com/mruby/mruby/commit/5cb0c74), [113565a](https://github.com/mruby/mruby/commit/113565a),
   [0713f2a](https://github.com/mruby/mruby/commit/0713f2a), [6ae6b63](https://github.com/mruby/mruby/commit/6ae6b63), [fc9fffc](https://github.com/mruby/mruby/commit/fc9fffc))
 - `__printstr__` method is removed; use `print` instead
   ([acecee0](https://github.com/mruby/mruby/commit/acecee0), [192e6e3](https://github.com/mruby/mruby/commit/192e6e3))
